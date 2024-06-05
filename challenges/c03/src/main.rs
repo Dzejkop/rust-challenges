@@ -5,7 +5,7 @@ use clap::Parser;
 
 #[derive(Parser)]
 struct Args {
-    #[clap(default_value = "challenges/c03/large_text_file.txt")]
+    #[clap(default_value = "large_text_file.txt")]
     file: PathBuf,
 }
 
