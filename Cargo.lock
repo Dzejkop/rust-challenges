@@ -115,6 +115,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "c02"
+version = "0.1.0"
+
+[[package]]
 name = "cc"
 version = "1.0.98"
 source = "registry+https://github.com/rust-lang/crates.io-index"
